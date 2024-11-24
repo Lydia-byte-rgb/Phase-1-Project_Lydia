@@ -119,3 +119,14 @@ dmypy.json
 
 #Pycharm IDE
 .idea
+
+#Specific local files to ignore
+.conda
+Aviation data for Tableau.csv
+AviationData.csv
+Cleaned Aviation data for Tableau.csv
+first interactive board.twb
+Phase_1_Project Slides.pptx
+phase_1_project_main - Lydia Mangoa.html
+Phase_1_Project.ipynb
+~first interactive board__15644.twbr
