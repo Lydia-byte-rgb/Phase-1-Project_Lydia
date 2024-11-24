@@ -119,8 +119,13 @@ For any clarification reach out to me on: lydiamangoa10@gmail.com
 
 # Repository structure
 .gitignore
+
 Phase_1_Project Slides- Lydia  Mangoa.pdf
+
 README.md
+
 phase_1_project_main - Lydia Mangoa.pdf
+
 phase_1_project_main.ipynb
+
 requirements.txt
